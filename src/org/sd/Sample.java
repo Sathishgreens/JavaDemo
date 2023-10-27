@@ -6,7 +6,9 @@ public class Sample {
 		
 		int a[] = new int[] {20,293,123,9847};
 		
-		
+		for(int b:a){
+			System.out.println(b);
+		}
 		
 	}
 
